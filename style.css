@@ -1081,7 +1081,7 @@ transition: 0.5s;
 .social_icons14 li a:hover {
     transform: rotate(360deg);
 }
-.Icon {
+i {
 color: withe;
 width: 20px;
 height: 20px;

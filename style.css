@@ -1082,7 +1082,7 @@ transition: 0.5s;
     transform: rotate(360deg);
 }
 i {
-color: #fff;
+color: white;
 width: 15px;
 height: 20px;
 }

@@ -1082,6 +1082,7 @@ transition: 0.5s;
     transform: rotate(360deg);
 }
 i {
+color: #fff;
 width: 15px;
 height: 20px;
 }

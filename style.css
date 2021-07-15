@@ -33,6 +33,7 @@ nav {
     scroll-behavior: smooth;
     margin-top: 20px;
     margin-bottom: 30px;
+    cursor: context-menu;
 }
 
 main {

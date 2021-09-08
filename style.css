@@ -103,6 +103,7 @@ footer p {
     text-align: center;
         box-sizing: border-box;
     color: #fff;
+    cursor: context-menu;
 
 }
 footer .footerp {

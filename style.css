@@ -119,6 +119,7 @@ footer .footerp1 {
     color: #fff;
         box-sizing: border-box;
     margin-bottom: 2em;
+      cursor: context-menu;
 }
 footer .footerp1:hover {
     color:blanchedalmond;

@@ -10,6 +10,10 @@
 body {
     background-color: rgb(0, 0, 0);
 }
+::selection {
+    background: white;
+    color: black;
+}
 @media screen and (max-width: 820px){
 body {
     background-color: rgb(0, 0, 0);
